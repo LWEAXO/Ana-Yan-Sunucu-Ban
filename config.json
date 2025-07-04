@@ -1,0 +1,9 @@
+{
+    "token": "MTM4NzkwNzk3ODMxMjg",
+    "anaSunucuID": "Main sunucu id",
+    "yanSunucuID": "Yan Sunucu id",
+    "Prefix": "!",
+    "banSebep": "Ana sunucudan ayrıldığınız için yasaklandınız",
+    "logKanalID": "log kanal id (metin)",
+    "dmMesaj": "Ana sunucudan ayrıldığınız için tüm sunucularımızdan yasaklandınız."
+  }
