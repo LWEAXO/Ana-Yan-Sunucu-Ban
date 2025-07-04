@@ -71,4 +71,4 @@ npm install discord.js colors
 Katkıda bulunmak için [GitHub](https://github.com/LWEAXO) adresini ziyaret edebilirsiniz.
 
 ## Lisans
-Bu proje [MIT](LISANCE) lisansı altında dağıtılmaktadır.
+Bu proje [MIT](LICENSE) lisansı altında dağıtılmaktadır.
